@@ -1,0 +1,11 @@
+---
+title: rapradiptya
+timezone: Asia/Jakarta
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+theme: jekyll-theme-minimal
