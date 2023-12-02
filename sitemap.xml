@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rapradiptya.net/css-tips-and-tricks/</loc>
+    <lastmod>2023-11-28T17:20:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/authors/</loc>
+    <lastmod>2023-11-28T17:20:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/tags/css/</loc>
+    <lastmod>2023-11-28T17:20:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/tags/html/</loc>
+    <lastmod>2023-11-28T17:20:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/authors/rafandra-aditya/</loc>
+    <lastmod>2023-11-28T17:20:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/</loc>
+    <lastmod>2023-11-28T17:20:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/tags/</loc>
+    <lastmod>2023-11-28T17:20:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/tags/javascript/</loc>
+    <lastmod>2023-10-21T13:41:40+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/authors/lie-tjien-lien/</loc>
+    <lastmod>2023-10-21T13:41:40+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/tags/react/</loc>
+    <lastmod>2023-10-21T13:41:40+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/js-and-operator-pitfalls/</loc>
+    <lastmod>2023-10-21T13:41:40+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/tags/nextjs/</loc>
+    <lastmod>2023-08-17T20:16:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/zustand-state-management-tool/</loc>
+    <lastmod>2023-08-17T20:16:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/server-side-rendering-vs-client-side-rendering/</loc>
+    <lastmod>2023-06-27T16:32:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/role-based-auth-prisma-next-auth/</loc>
+    <lastmod>2023-05-22T15:32:37+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapradiptya.net/nextjs-vs-express/</loc>
+    <lastmod>2023-04-11T02:45:45+07:00</lastmod>
+  </url>
+  
+</urlset>

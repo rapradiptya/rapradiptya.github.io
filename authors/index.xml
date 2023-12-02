@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on rapradiptya | Blog</title>
+    <link>https://rapradiptya.net/authors/</link>
+    <description>Recent content in Authors on rapradiptya | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2023 17:20:06 +0700</lastBuildDate><atom:link href="https://rapradiptya.net/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rafandra Aditya</title>
+      <link>https://rapradiptya.net/authors/rafandra-aditya/</link>
+      <pubDate>Tue, 28 Nov 2023 17:20:06 +0700</pubDate>
+      
+      <guid>https://rapradiptya.net/authors/rafandra-aditya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lie Tjien Lien</title>
+      <link>https://rapradiptya.net/authors/lie-tjien-lien/</link>
+      <pubDate>Sat, 21 Oct 2023 13:41:40 +0700</pubDate>
+      
+      <guid>https://rapradiptya.net/authors/lie-tjien-lien/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

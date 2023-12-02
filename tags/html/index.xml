@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on rapradiptya | Blog</title>
+    <link>https://rapradiptya.net/tags/html/</link>
+    <description>Recent content in html on rapradiptya | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2023 17:20:06 +0700</lastBuildDate><atom:link href="https://rapradiptya.net/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 CSS Tips and Tricks Every Web Developer Should Know</title>
+      <link>https://rapradiptya.net/css-tips-and-tricks/</link>
+      <pubDate>Tue, 28 Nov 2023 17:20:06 +0700</pubDate>
+      
+      <guid>https://rapradiptya.net/css-tips-and-tricks/</guid>
+      <description>Let’s explore some essential CSS tips and tricks that will help you streamline your web design process and build stunning, creative websites.
+For others let’s get started.
+CSS Clip-Path Clip path allows you to create custom shapes by clipping the visible area of an HTML element. You can think of it as a virtual pair of scissors that allows you to cut and reshape your items. By manipulating this property, you can create various shapes and effects that go beyond the typical rectangles and squares.</description>
+    </item>
+    
+  </channel>
+</rss>

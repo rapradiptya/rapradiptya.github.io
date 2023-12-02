@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafandra Aditya on rapradiptya | Blog</title>
+    <link>https://rapradiptya.net/authors/rafandra-aditya/</link>
+    <description>Recent content in Rafandra Aditya on rapradiptya | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2023 17:20:06 +0700</lastBuildDate><atom:link href="https://rapradiptya.net/authors/rafandra-aditya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 CSS Tips and Tricks Every Web Developer Should Know</title>
+      <link>https://rapradiptya.net/css-tips-and-tricks/</link>
+      <pubDate>Tue, 28 Nov 2023 17:20:06 +0700</pubDate>
+      
+      <guid>https://rapradiptya.net/css-tips-and-tricks/</guid>
+      <description>Let’s explore some essential CSS tips and tricks that will help you streamline your web design process and build stunning, creative websites.
+For others let’s get started.
+CSS Clip-Path Clip path allows you to create custom shapes by clipping the visible area of an HTML element. You can think of it as a virtual pair of scissors that allows you to cut and reshape your items. By manipulating this property, you can create various shapes and effects that go beyond the typical rectangles and squares.</description>
+    </item>
+    
+    <item>
+      <title>Zustand: Easiest Way for React State Management</title>
+      <link>https://rapradiptya.net/zustand-state-management-tool/</link>
+      <pubDate>Thu, 17 Aug 2023 20:16:53 +0700</pubDate>
+      
+      <guid>https://rapradiptya.net/zustand-state-management-tool/</guid>
+      <description>State management is one of the most important concepts in React world. As React components render and update, they rely on state to manage and reflect changes in data and UI elements. While Redux has dominated the state management landscape for years, developers are now seeking more straightforward and lightweight solutions like Zustand.
+Why you should learn Zustand? One of Zustand’s standout features is its minimalist API, designed to streamline state management in React components.</description>
+    </item>
+    
+    <item>
+      <title>Server-Side Rendering (SSR) Vs Client-Side Rendering (CSR)</title>
+      <link>https://rapradiptya.net/server-side-rendering-vs-client-side-rendering/</link>
+      <pubDate>Tue, 27 Jun 2023 16:32:13 +0700</pubDate>
+      
+      <guid>https://rapradiptya.net/server-side-rendering-vs-client-side-rendering/</guid>
+      <description>In the web development world, choosing the right rendering approach is crucial for building performant and user-friendly applications. Two popular methods, server-side rendering (SSR) and client-side rendering (CSR), offer distinct advantages and trade-offs. Understanding the differences between these approaches can help you make an informed decision based on your project requirements.
+Server-side Rendering (SSR) Server-side rendering is a technique in which web pages are rendered on the server and sent to the client as fully-formed HTML documents.</description>
+    </item>
+    
+    <item>
+      <title>Next.js vs Express: Which one is Better for a Backend Server?</title>
+      <link>https://rapradiptya.net/nextjs-vs-express/</link>
+      <pubDate>Tue, 11 Apr 2023 02:45:45 +0700</pubDate>
+      
+      <guid>https://rapradiptya.net/nextjs-vs-express/</guid>
+      <description>Two popular frameworks, Next.js and Express, serve different features and purposes. In this blog post, we will explore the differences between Next.js and Express and discuss when and why you might choose one over the other.
+Purpose os Next.js Next.js is a powerful framework built on top of React, focusing on server-rendered and statically generated React applications. It provides a structure for building complex, dynamic web applications and offers features like automatic code splitting, server-side rendering (SSR), and static site generation (SSG).</description>
+    </item>
+    
+  </channel>
+</rss>
